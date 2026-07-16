@@ -12,6 +12,12 @@ exceptions in a few points. In the document below we only discuss these
 alterations and additional rules. For general guidelines you can refer to the
 [PEP8][1] and the [Google style guide][2].
 
+## Ruff for code linting
+
+Ruff should be used within all python projects for linting. After finishing every function
+Ruff should be run the code to ensure that linting is correct and all errors should be fixed.
+This should also occur again at the end of a file.
+
 ## Names
 
 - Class names should be `PascalCase` (camel case with first letter capital),
@@ -234,3 +240,5 @@ def tcdb_routes() -> list[tuple[str, str]]:
 
 [1]: https://www.python.org/dev/peps/pep-0008/
 [2]: https://github.com/google/styleguide/blob/gh-pages/pyguide.md
+
+
