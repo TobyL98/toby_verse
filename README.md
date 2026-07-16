@@ -21,7 +21,7 @@ A markdown-based knowledge where I capture information about:
 
 ### As a Contributor
 
-
+Working on one of my projects? Please ensure you following the guidelines and skills
 
 ### As an AI Assistant
 
