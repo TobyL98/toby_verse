@@ -63,6 +63,10 @@ def strip_prefix(): ...
 def add_reverse(): ...  # if there's also remove_reverse()
 ```
 
+## Function Length
+
+All functions should be shorter than 50 lines.
+
 ## Blank lines
 
 Vertical empty space does not cost anything and helps a lot with readability.
